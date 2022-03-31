@@ -1,0 +1,17 @@
+.game-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0.5rem;
+  margin-top: 20px;
+  /* width: 20%; */
+
+  background: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #000000;
+}
+.game-logo {
+  width: 12.5rem;
+}
