@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Belgrano&family=Montserrat:wght@100&display=swap");
+
+.navbar {
+  background-color: #333;
+  /* border: none; */
+  color: red;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+}
+.navbar-logo-img {
+  width: 3rem;
+  padding: 0.5rem;
+}
+.navbar-title {
+  font-family: "Montserrat", sans-serif;
+}
